@@ -1,0 +1,17 @@
+
+.venv/
+__pycache__/
+*.pyc
+
+# Fichiers générés par l'analyse
+ventes_nettoyees.csv
+ca_par_produit.csv
+ca_par_mois.csv
+part_ca_produit.csv
+resume_mensuel.csv
+rapport_ventes.txt
+rapport_ventes.xlsx
+ventes_analysees.xlsx
+chiffre_affaires_par_produit.png
+graphique_ca_produit.png
+recommandations_commerciales.txt
